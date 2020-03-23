@@ -19,7 +19,7 @@
 
 - 기본 문법
   - [숫자 자료형](https://github.com/seongmink/Study_Python/tree/master/basic/1.%20%EC%88%AB%EC%9E%90%20%EC%9E%90%EB%A3%8C%ED%98%95.md)
-  - 
+  - [문자 자료형](https://github.com/seongmink/Study_Python/tree/master/basic/2.%20%EB%AC%B8%EC%9E%90%20%EC%9E%90%EB%A3%8C%ED%98%95.md)
 
 
 
