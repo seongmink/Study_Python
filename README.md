@@ -23,6 +23,7 @@
   - [if문](https://github.com/seongmink/Study_Python/blob/master/basic/3.%20if%EB%AC%B8.md)
   - [while문](https://github.com/seongmink/Study_Python/blob/master/basic/4.%20while%EB%AC%B8.md)
   - [리스트](https://github.com/seongmink/Study_Python/blob/master/basic/5.%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md])
+  - [for문](https://github.com/seongmink/Study_Python/blob/master/basic/6.%20for%EB%AC%B8.md)
 
 
 
