@@ -24,6 +24,7 @@
   - [while문](https://github.com/seongmink/Study_Python/blob/master/basic/4.%20while%EB%AC%B8.md)
   - [리스트](https://github.com/seongmink/Study_Python/blob/master/basic/5.%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
   - [for문](https://github.com/seongmink/Study_Python/blob/master/basic/6.%20for%EB%AC%B8.md)
+  - [반복문](https://github.com/seongmink/Study_Python/blob/master/basic/7.%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
 
 
 
