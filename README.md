@@ -25,7 +25,5 @@
   - [리스트](https://github.com/seongmink/Study_Python/blob/master/basic/5.%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
   - [for문](https://github.com/seongmink/Study_Python/blob/master/basic/6.%20for%EB%AC%B8.md)
   - [반복문](https://github.com/seongmink/Study_Python/blob/master/basic/7.%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
-  - [딕셔너리](https://github.com/seongmink/Study_Python/blob/master/basic/8.%20%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC)
-
-
+  - [딕셔너리](https://github.com/seongmink/Study_Python/blob/master/basic/8.%20%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC.md)
 
