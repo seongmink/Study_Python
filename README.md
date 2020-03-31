@@ -29,4 +29,6 @@
   - [함수](https://github.com/seongmink/Study_Python/blob/master/basic/9.%20%ED%95%A8%EC%88%98.md)
 - 중급 문법
   - [파일 읽기](https://github.com/seongmink/Study_Python/blob/master/intermediate/1.%20%ED%8C%8C%EC%9D%BC%20%EC%9D%BD%EA%B8%B0.md)
+  - [람다(lambda)](https://github.com/seongmink/Study_Python/blob/master/intermediate/2.%20%EB%9E%8C%EB%8B%A4(lambda).md)
+  - [클래스](https://github.com/seongmink/Study_Python/blob/master/intermediate/3.%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 
