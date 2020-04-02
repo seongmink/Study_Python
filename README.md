@@ -30,4 +30,6 @@
   - [람다(lambda)](https://github.com/seongmink/Study_Python/blob/master/intermediate/2.%20%EB%9E%8C%EB%8B%A4(lambda).md)
   - [클래스](https://github.com/seongmink/Study_Python/blob/master/intermediate/3.%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
   - [문자열 심화](https://github.com/seongmink/Study_Python/blob/master/intermediate/4.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%8B%AC%ED%99%94.md)
+  - [리스트 심화](https://github.com/seongmink/Study_Python/blob/master/intermediate/5.%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%8B%AC%ED%99%94.md)
+  - [파일 심화](https://github.com/seongmink/Study_Python/blob/master/intermediate/6.%20%ED%8C%8C%EC%9D%BC%20%EC%8B%AC%ED%99%94.md)
 
